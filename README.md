@@ -2,7 +2,7 @@
 
 This project contains the basic video chat demo that allows a local user talk to remote user.  It is the implementation of [this developer blog](https://www.agora.io/en/blog/agora-video-sdk-for-unity-quick-start-programming-guide/).
 
-![enter image description here](https://www.agora.io/en/wp-content/uploads/2020/09/agora-video-sdk-for-unity-quick-start-guide.png)
+![quick start banner](https://www.agora.io/en/wp-content/uploads/2020/09/agora-video-sdk-unity-guide-featured.png)
 
 ## Prerequisites
 
@@ -19,5 +19,5 @@ This project contains the basic video chat demo that allows a local user talk to
 Please follow [the blog](https://www.agora.io/en/blog/agora-video-sdk-for-unity-quick-start-programming-guide/).
 
 ## License
-The MIT License (MIT).
+[The MIT License (MIT)](LICENSE).
 
